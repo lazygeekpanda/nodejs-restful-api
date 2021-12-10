@@ -7,7 +7,7 @@ const swaggerDef = {
     title: 'Nodejs API boilerplate',
     version,
     license: {
-      name: 'MIT',
+      name: 'MIT'
       // url: 'https://github.com/hagopj13/node-express-boilerplate/blob/master/LICENSE'
     }
   },
